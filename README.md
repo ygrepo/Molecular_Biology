@@ -11,3 +11,4 @@
 10. Regulation of Gene Expression
 11. Gene Expression
 
+Each module contains a discussion, assessment and technical papers I submitted during the course.
